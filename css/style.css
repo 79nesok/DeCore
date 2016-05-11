@@ -24,13 +24,16 @@ Version: 1.0
 /*  BODY
 /*----------------------------------------------------*/
 body {
-    font-family: 'Poiret One', cursive;
-    background: url('../img/bg.jpg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+  font-family: "Roboto Condensed",sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  color: #5c6873;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  padding: 0;
+  margin: 0;
 }
+
 /*  TYPOGRAPHY
 /*----------------------------------------------------*/
 h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6,p,.lead {
